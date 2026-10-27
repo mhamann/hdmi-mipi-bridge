@@ -1641,7 +1641,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "antmicroMechanicalParts:Spacer_Drill3.7mm_H6mm_9774060151R"
+		(symbol "antmicroMechanicalParts:Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1659,7 +1659,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "Spacer_Drill3.7mm_H6mm_9774060151R"
+			(property "Value" "Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ"
 				(at 22.86 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1672,7 +1672,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "antmicro-footprints:Spacer_Drill3.7mm_H6mm_9774060151R"
+			(property "Footprint" "antmicro-footprints:Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ"
 				(at 22.86 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1685,7 +1685,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Datasheet" "https://www.we-online.com/components/products/datasheet/9774060151R.pdf"
+			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2112061830_Sinhoo-SMTSO2560CTJ_C2916361.pdf"
 				(at 22.86 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1698,7 +1698,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Description" "Spacer, SMT, Non Stop, Steel, Swage Round, 5.1 mm x 6 mm, M2.5 Thread, WA-SMSI Series"
+			(property "Description" "Spacer, SMT, Brass, Round, 5.56 mm x 6 mm, M2.5 internal thread"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1709,7 +1709,7 @@
 					)
 				)
 			)
-			(property "Manufacturer" "Würth Elektronik"
+			(property "Manufacturer" "Sinhoo"
 				(at 22.86 -12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1722,7 +1722,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "MPN" "9774060151R"
+			(property "MPN" "SMTSO2560CTJ"
 				(at 22.86 -15.24 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1783,7 +1783,7 @@
 					)
 				)
 			)
-			(symbol "Spacer_Drill3.7mm_H6mm_9774060151R_1_1"
+			(symbol "Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ_1_1"
 				(rectangle
 					(start 2.54 -2.54)
 					(end 7.62 2.54)
@@ -6123,7 +6123,7 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroMechanicalParts:Spacer_Drill3.7mm_H6mm_9774060151R")
+		(lib_id "antmicroMechanicalParts:Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ")
 		(at 373.38 238.76 0)
 		(unit 1)
 		(body_style 1)
@@ -6144,7 +6144,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Spacer_Drill3.7mm_H6mm_9774060151R"
+		(property "Value" "Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ"
 			(at 396.24 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -6157,7 +6157,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "antmicro-footprints:Spacer_Drill3.7mm_H6mm_9774060151R"
+		(property "Footprint" "antmicro-footprints:Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ"
 			(at 396.24 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -6170,7 +6170,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/9774060151R.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2112061830_Sinhoo-SMTSO2560CTJ_C2916361.pdf"
 			(at 396.24 248.92 0)
 			(hide yes)
 			(show_name no)
@@ -6183,7 +6183,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Spacer, SMT, Brass, Round, 5.56 mm x 6 mm, M2.5 internal thread"
 			(at 373.38 238.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6193,7 +6193,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
+		(property "Manufacturer" "Sinhoo"
 			(at 396.24 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -6206,7 +6206,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "9774060151R"
+		(property "MPN" "SMTSO2560CTJ"
 			(at 372.11 235.585 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6377,7 +6377,7 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroMechanicalParts:Spacer_Drill3.7mm_H6mm_9774060151R")
+		(lib_id "antmicroMechanicalParts:Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ")
 		(at 345.44 226.06 0)
 		(unit 1)
 		(body_style 1)
@@ -6398,7 +6398,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Spacer_Drill3.7mm_H6mm_9774060151R"
+		(property "Value" "Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ"
 			(at 368.3 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -6411,7 +6411,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "antmicro-footprints:Spacer_Drill3.7mm_H6mm_9774060151R"
+		(property "Footprint" "antmicro-footprints:Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ"
 			(at 368.3 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -6424,7 +6424,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/9774060151R.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2112061830_Sinhoo-SMTSO2560CTJ_C2916361.pdf"
 			(at 368.3 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -6437,7 +6437,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Spacer, SMT, Brass, Round, 5.56 mm x 6 mm, M2.5 internal thread"
 			(at 345.44 226.06 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6447,7 +6447,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
+		(property "Manufacturer" "Sinhoo"
 			(at 368.3 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -6460,7 +6460,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "9774060151R"
+		(property "MPN" "SMTSO2560CTJ"
 			(at 344.17 222.885 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6523,7 +6523,7 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroMechanicalParts:Spacer_Drill3.7mm_H6mm_9774060151R")
+		(lib_id "antmicroMechanicalParts:Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ")
 		(at 373.38 226.06 0)
 		(unit 1)
 		(body_style 1)
@@ -6544,7 +6544,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Spacer_Drill3.7mm_H6mm_9774060151R"
+		(property "Value" "Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ"
 			(at 396.24 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -6557,7 +6557,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "antmicro-footprints:Spacer_Drill3.7mm_H6mm_9774060151R"
+		(property "Footprint" "antmicro-footprints:Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ"
 			(at 396.24 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -6570,7 +6570,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/9774060151R.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2112061830_Sinhoo-SMTSO2560CTJ_C2916361.pdf"
 			(at 396.24 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -6583,7 +6583,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Spacer, SMT, Brass, Round, 5.56 mm x 6 mm, M2.5 internal thread"
 			(at 373.38 226.06 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6593,7 +6593,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
+		(property "Manufacturer" "Sinhoo"
 			(at 396.24 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -6606,7 +6606,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "9774060151R"
+		(property "MPN" "SMTSO2560CTJ"
 			(at 372.11 222.885 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6747,7 +6747,7 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroMechanicalParts:Spacer_Drill3.7mm_H6mm_9774060151R")
+		(lib_id "antmicroMechanicalParts:Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ")
 		(at 345.44 238.76 0)
 		(unit 1)
 		(body_style 1)
@@ -6768,7 +6768,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Spacer_Drill3.7mm_H6mm_9774060151R"
+		(property "Value" "Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ"
 			(at 368.3 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -6781,7 +6781,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "antmicro-footprints:Spacer_Drill3.7mm_H6mm_9774060151R"
+		(property "Footprint" "antmicro-footprints:Spacer_Drill4.25mm_H6mm_SMTSO2560CTJ"
 			(at 368.3 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -6794,7 +6794,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/9774060151R.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2112061830_Sinhoo-SMTSO2560CTJ_C2916361.pdf"
 			(at 368.3 248.92 0)
 			(hide yes)
 			(show_name no)
@@ -6807,7 +6807,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Spacer, SMT, Brass, Round, 5.56 mm x 6 mm, M2.5 internal thread"
 			(at 345.44 238.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6817,7 +6817,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
+		(property "Manufacturer" "Sinhoo"
 			(at 368.3 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -6830,7 +6830,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "9774060151R"
+		(property "MPN" "SMTSO2560CTJ"
 			(at 344.17 235.585 0)
 			(show_name no)
 			(do_not_autoplace no)
